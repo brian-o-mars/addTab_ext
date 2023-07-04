@@ -19,6 +19,7 @@
         "default_title": "AddTab"
     },
     "permissions": [
-        "tabs"
+        "tabs",
+        "tabGroups"
       ]
 }
